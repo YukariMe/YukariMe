@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Ffoster-the-people-skeleton&ved=0CBcQjRxqGAoTCPi7isHo3JcDFQAAAAAdAAAAABCKAg&opi=89978449" alt="Esqueleto dançando" width="300" height="200">
+<img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Ffoster-the-people-skeleton&opi=89978449" alt="Esqueleto dançando" width="300" height="200">
 
 
 <!--
