@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img src="https://media.tenor.com/Tr4svi_j4zEAAAAM/skeleton-dancing.gif" alt="Logo do Projeto" width="300" height="200">
+
+
 <!--
 **YukariMe/YukariMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
