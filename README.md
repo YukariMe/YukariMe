@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://media.tenor.com/Tr4svi_j4zEAAAAM/skeleton-dancing.gif" alt="Logo do Projeto" width="300" height="200">
+<img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F889672101379376619%2F&ved=0CBcQjRxqFwoTCIiNoJDo3JcDFQAAAAAdAAAAABBt&opi=89978449" alt="Logo do Projeto" width="300" height="200">
 
 
 <!--
